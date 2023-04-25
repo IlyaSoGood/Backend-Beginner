@@ -24,6 +24,8 @@
     "nodemon": "^2.0.22"
   },
   "dependencies": {
-    "mongoose": "^7.0.5"
+    "express-fileupload": "^1.4.0",
+    "mongoose": "^7.0.5",
+    "uuid": "^9.0.0"
   }
 }
