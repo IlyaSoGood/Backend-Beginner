@@ -4,7 +4,8 @@ import router from './router.js'
 import fileUpload from "express-fileupload";
 
 const PORT = 5000;
-const DB_URL = 'mongodb+srv://tomixlove:Zbaq5sctInfs0sc0@cluster0.glxew5l.mongodb.net/?retryWrites=true&w=majority'
+//ПАРОЛЬ НЕ ДЕЙСТВИТЕЛЕН
+const DB_URL = 'mongodb+srv://tomixlove:<password>@cluster0.glxew5l.mongodb.net/?retryWrites=true&w=majority'
 
 const app = express();
 
